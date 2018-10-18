@@ -1,2 +1,12 @@
-# NII-Deep-Learning-Server
-Server for Bridge Structural Damage Segmentation by using Fully Convolutional Neural Networks at National Institute of Informatics (Tokyo, Japan)
+# flask-api-upload-image
+Flask API upload image and save to file.
+
+## Setup
+```
+pip install -r requirements.txt
+```
+
+## Start server
+```
+python server.py
+```
